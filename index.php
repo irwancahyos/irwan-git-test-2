@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>buat file index</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, harum.</p>
 </body>
 </html>
