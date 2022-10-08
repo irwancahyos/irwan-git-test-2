@@ -9,5 +9,9 @@
 <body>
     <h1>buat file index</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, harum.</p>
+    <ul>
+        <li>mandi</li>
+        <li>adus</li>
+    </ul>
 </body>
 </html>
